@@ -7,6 +7,8 @@
 // @match        *://csgo500.com/*
 // @grant        none
 // @run-at       document-start
+// @updateURL    https://github.com/rosecutie/500casino-vpn-bypass/blob/main/500vpn.js
+// @downloadURL  https://github.com/rosecutie/500casino-vpn-bypass/blob/main/500vpn.js
 // ==/UserScript==
 
 (function () {
